@@ -127,7 +127,7 @@ I build both foundational and refine existing AI systems for finance, healthcare
 - **AutoML, LLMs, Bayesian Optimization**  
   Hasan, I., Tausif, M. (2025). *Designing an Interpretable and Efficient AutoML Pipeline for Enhanced Data Analytics*. 2025 3rd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS), IEEE.  
   DOI: [10.1109/ICSSAS66150.2025.11081354](https://doi.org/10.1109/ICSSAS66150.2025.11081354) | [IEEE Xplore](https://ieeexplore.ieee.org/document/11081354)  
-  Combined deep feature synthesis, LLMs, and Bayesian optimization; achieved 10%+ performance gains across healthcare, finance, telecom, and education domains.
+  Combined deep feature synthesis, LLMs, and Bayesian optimization; achieved 10%+ performance gains across datasets belonging from healthcare, finance, telecom, and educational domains.
 
 ---
 
