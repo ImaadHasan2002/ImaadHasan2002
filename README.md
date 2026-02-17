@@ -9,6 +9,9 @@
   <a href='https://www.linkedin.com/in/imaad-hasan-980547226/'>
     <img src='https://img.shields.io/badge/LinkedIn-Imaad%20Hasan-0A66C2?logo=linkedin&logoColor=white' alt='LinkedIn' />
   </a>
+  <a href='https://x.com/imaad_hasan'>
+    <img src='https://img.shields.io/badge/X-@imaad__hasan-000000?logo=x&logoColor=white' alt='X' />
+  </a>
   <a href='https://imaad.bearblog.dev'>
     <img src='https://img.shields.io/badge/Blog-imaad.bearblog.dev-FF6B6B?logo=rss&logoColor=white' alt='Blog' />
   </a>
