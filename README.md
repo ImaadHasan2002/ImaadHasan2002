@@ -98,11 +98,37 @@ I build both foundational and refine existing AI systems for finance, healthcare
 
 ### Experience Snapshot
 
-- **STARlab Capital** — AI Research Engineer (Jul 2025 - Present)
-- **STARlab Capital** — AI Research Intern (Apr 2025 - Jun 2025)
-- Leading R&D for ViviSTAR, built self-supervised WSI pipelines, optimizing slide visualization workloads, and supporting graph-based biomedical retrieval for LLM pretraining.
+- **STARlab Capital** — AI Research Engineer (Jul 2025 - Present)  
+  Leading R&D for ViviSTAR, building self-supervised WSI pipelines, optimizing slide visualization workloads, and supporting graph-based biomedical retrieval for LLM pretraining.
+
+- **STARlab Capital** — AI Research Intern (Apr 2025 - Jun 2025)  
+  Contributed to research workflows for biomedical AI and model experimentation.
+
+- **Aavaaz.ai** — AI Engineer, Part-time (Dec 2024 - Jan 2025, Remote)  
+  Designed back-translation and data-filtering pipelines for Azure STT models and trained CNN-based speech emotion recognition models across 12 languages.
+
 - **Zenon Analytics** — Predictive Software Intern (Jun 2024 - Aug 2024)  
   Improved feature engineering runtime by 15% and integrated model interpretability in an AutoML production pipeline.
+
+---
+
+### Education
+
+- **Aligarh Muslim University (ZHCET)**  
+  Bachelor of Technology (B.Tech), Artificial Intelligence  
+  CPI: **8.44/10** (GPA: **3.38/4.0**)
+
+- **Relevant Coursework**  
+  Machine Learning, Artificial Intelligence, Deep Learning, NLP, Reinforcement Learning, Recommender Systems, Data Visualization, Image and Video Processing, Linear Algebra, Calculus.
+
+---
+
+### Publications
+
+- **AutoML, LLMs, Bayesian Optimization**  
+  Hasan, I., Tausif, M. (2025). *Designing an Interpretable and Efficient AutoML Pipeline for Enhanced Data Analytics*. 2025 3rd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS), IEEE.  
+  DOI: [10.1109/ICSSAS66150.2025.11081354](https://doi.org/10.1109/ICSSAS66150.2025.11081354) | [IEEE Xplore](https://ieeexplore.ieee.org/document/11081354)  
+  Combined deep feature synthesis, LLMs, and Bayesian optimization; achieved 10%+ performance gains across healthcare, finance, telecom, and education domains.
 
 ---
 
