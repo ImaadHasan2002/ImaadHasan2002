@@ -99,10 +99,9 @@ I build both foundational and refine existing AI systems for finance, healthcare
 ### Experience Snapshot
 
 - **STARlab Capital** — AI Research Engineer (Jul 2025 - Present)  
-  Leading R&D for ViviSTAR, building self-supervised WSI pipelines, optimizing slide visualization workloads, and supporting graph-based biomedical retrieval for LLM pretraining.
 
 - **STARlab Capital** — AI Research Intern (Apr 2025 - Jun 2025)  
-  Contributed to research workflows for biomedical AI and model experimentation.
+  Leading R&D for ViviSTAR, building self-supervised WSI pipelines, optimizing slide visualization workloads, and supporting graph-based biomedical retrieval for LLM pretraining.
 
 - **Aavaaz.ai** — AI Engineer, Part-time (Dec 2024 - Jan 2025, Remote)  
   Designed back-translation and data-filtering pipelines for Azure STT models and trained CNN-based speech emotion recognition models across 12 languages.
