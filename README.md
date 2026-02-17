@@ -15,6 +15,12 @@ I build both foundational and refine existing AI systems for finance, healthcare
 - Currently: **AI Research Engineer** at STARlab Capital, working in finance and leading an agentic AI project in agriculture.
 - Open to collaborating on impactful AI/ML and applied research projects.
 
+### GitHub Activity
+
+<p align='center'>
+  <img src='https://streak-stats.demolab.com?user=ImaadHasan2002&theme=highcontrast&hide_border=false&border_radius=8' alt='GitHub contribution streak' />
+</p>
+
 ---
 
 ### Tech Stack
@@ -28,7 +34,7 @@ I build both foundational and refine existing AI systems for finance, healthcare
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-**Frameworks and AI**
+**Frameworks**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -47,13 +53,27 @@ I build both foundational and refine existing AI systems for finance, healthcare
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?logo=awslambda&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker%20AI-1A73E8?logo=amazonaws&logoColor=white)
+![Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-2E5BFF?logo=pinecone&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
-![Apache%20Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?logo=apachehadoop&logoColor=black)
+
+**Developer Tools**
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?logo=spyderide&logoColor=white)
 
 **Data and Libraries**
 
