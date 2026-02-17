@@ -66,23 +66,9 @@ I build AI systems for finance, healthcare and agritech ML workflows, with a foc
 
 ---
 
-### Selected Projects
-
-- **Low-Code Chatbot Builder**  
-  Built a low-code chatbot platform using RAG architecture and LLMs for adaptable, domain-specific assistant workflows.
-
-- **Multimodal Ophthalmic Disease Detection**  
-  Developed a multimodal deep learning pipeline with a Flask backend for fundus-image-based disease classification and report generation.
-
-- **Road Segmentation and Object Detection**  
-  Combined ResNet101 (segmentation) and YOLOv8 (detection) for scene understanding in semi-urban autonomous driving settings.
-
----
-
 ### Experience Snapshot
 
 - **STARlab Capital** — AI Research Engineer (Jul 2025 - Present)  
-  Leading R&D for ViviSTAR, building self-supervised WSI pipelines, optimizing slide visualization workloads, and supporting graph-based biomedical retrieval for LLM pretraining.
 
 - **Zenon Analytics** — Predictive Software Intern (Jun 2024 - Aug 2024)  
   Improved feature engineering runtime by 15% and integrated model interpretability in an AutoML production pipeline.
