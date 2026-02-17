@@ -3,9 +3,18 @@
 </p>
 
 <p align='center'>
-  <a href='https://github.com/ImaadHasan2002'>GitHub</a> •
-  <a href='https://www.linkedin.com/in/imaad-hasan-980547226/'>LinkedIn</a> •
-  <a href='mailto:imaadhasan16@gmail.com'>imaadhasan16@gmail.com</a>
+  <a href='https://github.com/ImaadHasan2002'>
+    <img src='https://img.shields.io/badge/GitHub-ImaadHasan2002-181717?logo=github&logoColor=white' alt='GitHub' />
+  </a>
+  <a href='https://www.linkedin.com/in/imaad-hasan-980547226/'>
+    <img src='https://img.shields.io/badge/LinkedIn-Imaad%20Hasan-0A66C2?logo=linkedin&logoColor=white' alt='LinkedIn' />
+  </a>
+  <a href='https://imaad.bearblog.dev'>
+    <img src='https://img.shields.io/badge/Blog-imaad.bearblog.dev-FF6B6B?logo=rss&logoColor=white' alt='Blog' />
+  </a>
+  <a href='mailto:imaadhasan16@gmail.com'>
+    <img src='https://img.shields.io/badge/Email-imaadhasan16%40gmail.com-EA4335?logo=gmail&logoColor=white' alt='Email' />
+  </a>
 </p>
 
 ### AI Research Engineer
@@ -13,6 +22,7 @@
 I build both foundational and refine existing AI systems for finance, healthcare and agritech ML workflows, with a focus on multimodal learning, retrieval pipelines, and scalable model deployment.
 
 - Currently: **AI Research Engineer** at STARlab Capital, working in finance and leading an agentic AI project in agriculture.
+- I write AI/ML blogs at **[imaad.bearblog.dev](https://imaad.bearblog.dev)**.
 - Open to collaborating on impactful AI/ML and applied research projects.
 
 ### GitHub Activity
@@ -88,9 +98,9 @@ I build both foundational and refine existing AI systems for finance, healthcare
 
 ### Experience Snapshot
 
-- **STARlab Capital** — AI Research Engineer (Jul 2025 - Present)  
+- **STARlab Capital** — AI Research Engineer (Jul 2025 - Present)
 - **STARlab Capital** — AI Research Intern (Apr 2025 - Jun 2025)
--   Leading R&D for ViviSTAR, built self-supervised WSI pipelines, optimizing slide visualization workloads, and supporting graph-based biomedical retrieval for LLM pretraining.  
+- Leading R&D for ViviSTAR, built self-supervised WSI pipelines, optimizing slide visualization workloads, and supporting graph-based biomedical retrieval for LLM pretraining.
 - **Zenon Analytics** — Predictive Software Intern (Jun 2024 - Aug 2024)  
   Improved feature engineering runtime by 15% and integrated model interpretability in an AutoML production pipeline.
 
