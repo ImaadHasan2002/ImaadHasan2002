@@ -8,9 +8,9 @@
   <a href='mailto:imaadhasan16@gmail.com'>imaadhasan16@gmail.com</a>
 </p>
 
-### AI Research Engineer | Applied ML, LLMs, and Biomedical AI
+### AI Research Engineer
 
-I build AI systems for finance, healthcare and agritech ML workflows, with a focus on multimodal learning, retrieval pipelines, and scalable model deployment.
+I build both foundational and refine existing AI systems for finance, healthcare and agritech ML workflows, with a focus on multimodal learning, retrieval pipelines, and scalable model deployment.
 
 - Currently: **AI Research Engineer** at STARlab Capital, working in finance and leading an agentic AI project in agriculture.
 - Open to collaborating on impactful AI/ML and applied research projects.
@@ -69,7 +69,8 @@ I build AI systems for finance, healthcare and agritech ML workflows, with a foc
 ### Experience Snapshot
 
 - **STARlab Capital** — AI Research Engineer (Jul 2025 - Present)  
-
+- **STARlab Capital** — AI Research Intern (Apr 2025 - Jun 2025)
+-   Leading R&D for ViviSTAR, built self-supervised WSI pipelines, optimizing slide visualization workloads, and supporting graph-based biomedical retrieval for LLM pretraining.  
 - **Zenon Analytics** — Predictive Software Intern (Jun 2024 - Aug 2024)  
   Improved feature engineering runtime by 15% and integrated model interpretability in an AutoML production pipeline.
 
