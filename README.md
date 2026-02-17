@@ -57,6 +57,7 @@ I build both foundational and refine existing AI systems for finance, healthcare
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 
 **Cloud and MLOps**
 
@@ -92,6 +93,8 @@ I build both foundational and refine existing AI systems for finance, healthcare
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
@@ -105,6 +108,7 @@ I build both foundational and refine existing AI systems for finance, healthcare
 
 - **STARlab Capital** — AI Research Intern (Apr 2025 - Jun 2025)  
   Leading R&D for ViviSTAR, building self-supervised WSI pipelines, optimizing slide visualization workloads, and supporting graph-based biomedical retrieval for LLM pretraining.
+  Backtested multiple trading strategies by transforming intuition-based hyperparameters into mathematically grounded simulations.
 
 - **Aavaaz.ai** — AI Engineer, Part-time (Dec 2024 - Jan 2025, Remote)  
   Designed back-translation and data-filtering pipelines for Azure STT models and trained CNN-based speech emotion recognition models across 12 languages.
