@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Imaad%20Hasan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35' />
+  <img src='https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Hey%20There!!&desc=I%20am%20Imaad&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descAlignY=55&descSize=22' />
 </p>
 
 <p align='center'>
@@ -20,12 +20,12 @@
   </a>
 </p>
 
-### AI Research Engineer
+### AI Research Engineer @ STARlab Capital
 
 I build both foundational and refine existing AI systems for finance, healthcare and agritech ML workflows, with a focus on multimodal learning, retrieval pipelines, and scalable model deployment.
 
 - Currently: **AI Research Engineer** at STARlab Capital, working in finance and leading an agentic AI side project in agriculture field.
-- I write  blogs at **[imaad.bearblog.dev](https://imaad.bearblog.dev)**.
+- I write blogs at **[imaad.bearblog.dev](https://imaad.bearblog.dev)**.
 - Open to collaborating on impactful applied AI research projects.
 
 ### GitHub Activity
@@ -101,7 +101,7 @@ I build both foundational and refine existing AI systems for finance, healthcare
 
 ### Experience Snapshot
 
-- **STARlab Capital** — AI Research Engineer (Jul 2025 - Present)  
+- **STARlab Capital** — AI Research Engineer (Jul 2025 - Present)
 
 - **STARlab Capital** — AI Research Intern (Apr 2025 - Jun 2025)  
   Leading R&D for ViviSTAR, building self-supervised WSI pipelines, optimizing slide visualization workloads, and supporting graph-based biomedical retrieval for LLM pretraining.
@@ -128,7 +128,7 @@ I build both foundational and refine existing AI systems for finance, healthcare
 ### Publications
 
 - **AutoML, LLMs, Bayesian Optimization**  
-  Hasan, I., Tausif, M. (2025). *Designing an Interpretable and Efficient AutoML Pipeline for Enhanced Data Analytics*. 2025 3rd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS), IEEE.  
+  Hasan, I., Tausif, M. (2025). _Designing an Interpretable and Efficient AutoML Pipeline for Enhanced Data Analytics_. 2025 3rd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS), IEEE.  
   DOI: [10.1109/ICSSAS66150.2025.11081354](https://doi.org/10.1109/ICSSAS66150.2025.11081354) | [IEEE Xplore](https://ieeexplore.ieee.org/document/11081354)  
   Combined deep feature synthesis, LLMs, and Bayesian optimization; achieved 10%+ performance gains across datasets belonging from healthcare, finance, telecom, and educational domains.
 
