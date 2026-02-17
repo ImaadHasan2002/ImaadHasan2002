@@ -21,7 +21,7 @@
 
 I build both foundational and refine existing AI systems for finance, healthcare and agritech ML workflows, with a focus on multimodal learning, retrieval pipelines, and scalable model deployment.
 
-- Currently: **AI Research Engineer** at STARlab Capital, working in finance and leading an agentic AI project in agriculture.
+- Currently: **AI Research Engineer** at STARlab Capital, working in finance and leading an agentic AI side project in agriculture field.
 - I write  blogs at **[imaad.bearblog.dev](https://imaad.bearblog.dev)**.
 - Open to collaborating on impactful applied AI research projects.
 
