@@ -24,7 +24,7 @@
 
 I build both foundational and refine existing AI systems for finance, healthcare and agritech ML workflows, with a focus on multimodal learning, retrieval pipelines, and scalable model deployment.
 
-- Currently: **AI Research Engineer** at STARlab Capital, working in finance and leading an agentic AI side project in agriculture field.
+- Currently working in finance and leading an agentic AI side project in agriculture field.
 - I write blogs at **[imaad.bearblog.dev](https://imaad.bearblog.dev)**.
 - Open to collaborating on impactful applied AI research projects.
 
@@ -107,7 +107,7 @@ I build both foundational and refine existing AI systems for finance, healthcare
 - **STARlab Capital** — AI Research Engineer (Jul 2025 - Present)
 
 - **STARlab Capital** — AI Research Intern (Apr 2025 - Jun 2025)  
-  Leading R&D for ViviSTAR, building self-supervised WSI pipelines, optimizing slide visualization workloads, and supporting graph-based biomedical retrieval for LLM pretraining.
+  Lead R&D for ViviSTAR, building self-supervised WSI pipelines, optimizing slide visualization workloads, and supporting graph-based biomedical retrieval for LLM pretraining.
   Backtested multiple trading strategies by transforming intuition-based hyperparameters into mathematically grounded simulations.
 
 - **Aavaaz.ai** — AI Engineer, Part-time (Dec 2024 - Jan 2025, Remote)  
