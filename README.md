@@ -20,13 +20,13 @@
   </a>
 </p>
 
-### AI Research Engineer @ STARlab Capital
+### Product & AI Research Engineer @ STARlab Capital
 
-I build both foundational and refine existing AI systems for finance, healthcare and agritech ML workflows, with a focus on multimodal learning, retrieval pipelines, and scalable model deployment.
+I work on computer vision for gigapixel medical imaging: segmentation and self-supervised representation learning on whole-slide pathology images, along with the systems work that makes images that size trainable and viewable. Alongside that I lead product and ML research for a geospatial carbon and water credit analytics platform.
 
-- Currently working in finance and leading an agentic AI side project in agriculture field.
+- Currently leading product R&D at Airrigate while continuing whole-slide imaging research with Vivi Biologics.
 - I write blogs at **[imaad.bearblog.dev](https://imaad.bearblog.dev)**.
-- Open to collaborating on impactful applied AI research projects.
+- Open to collaborating on applied medical imaging, efficient vision research and cognitive science.
 
 ### GitHub Activity
 
@@ -49,15 +49,16 @@ I build both foundational and refine existing AI systems for finance, healthcare
 
 **Frameworks**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-121212?logo=databricks&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 
 **Cloud and MLOps**
 
@@ -98,22 +99,23 @@ I build both foundational and refine existing AI systems for finance, healthcare
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
 ---
 
 ### Experience Snapshot
 
-- **STARlab Capital** — AI Research Engineer (Jul 2025 - Present)
+- **STARlab Capital** | Product & AI Research Engineer (Jul 2025 - Present)  
+  *Airrigate (Jan 2026 - Present):* Leading product R&D and end-to-end ML pipelines for carbon and water credit analytics over geospatial and time-series data, delivered with a Big Four consulting partner.  
+  *Vivi Biologics (Jul - Dec 2025):* Built a ViT segmentation pipeline for whole-slide pathology images, benchmarked self-supervised feature extraction methods and vision foundation models, deployed a tiling-based visualisation system for real-time in-browser interaction with gigapixel slides, and supported graph-based biomedical retrieval for LLM pretraining.  
+  Backtested trading strategies by transforming intuition-based hyperparameters into mathematically grounded simulations.
 
-- **STARlab Capital** — AI Research Intern (Apr 2025 - Jun 2025)  
-  Lead R&D for ViviSTAR, building self-supervised WSI pipelines, optimizing slide visualization workloads, and supporting graph-based biomedical retrieval for LLM pretraining.
-  Backtested multiple trading strategies by transforming intuition-based hyperparameters into mathematically grounded simulations.
+- **STARlab Capital** | AI Research Intern (Apr 2025 - Jul 2025)  
+  Prototyped the initial WSI segmentation architecture with research-driven modifications for medical image segmentation. Optimized the slide rendering pipeline, reducing memory usage by 88% to enable in-browser rendering of multi-GB images.
 
-- **Aavaaz.ai** — AI Engineer, Part-time (Dec 2024 - Jan 2025, Remote)  
+- **Aavaaz.ai** | AI Engineer, Part-time (Dec 2024 - Jan 2025, Remote)  
   Designed back-translation and data-filtering pipelines for Azure STT models and trained CNN-based speech emotion recognition models across 12 languages.
 
-- **Zenon Analytics** — Predictive Software Intern (Jun 2024 - Aug 2024)  
+- **Zenon Analytics** | Predictive Software Intern (Jun 2024 - Aug 2024)  
   Improved feature engineering runtime by 15% and integrated model interpretability in an AutoML production pipeline.
 
 ---
@@ -121,8 +123,8 @@ I build both foundational and refine existing AI systems for finance, healthcare
 ### Education
 
 - **Aligarh Muslim University (ZHCET)**  
-  Bachelor of Technology (B.Tech), Artificial Intelligence  
-  CPI: **8.44/10** (GPA: **3.38/4.0**)
+  Bachelor of Technology (B.Tech), Artificial Intelligence | 2021 - 2025  
+  GATE 2025 qualified
 
 - **Relevant Coursework**  
   Machine Learning, Artificial Intelligence, Deep Learning, NLP, Reinforcement Learning, Recommender Systems, Data Visualization, Image and Video Processing, Linear Algebra, Calculus.
@@ -134,7 +136,7 @@ I build both foundational and refine existing AI systems for finance, healthcare
 - **AutoML, LLMs, Bayesian Optimization**  
   Hasan, I., Tausif, M. (2025). _Designing an Interpretable and Efficient AutoML Pipeline for Enhanced Data Analytics_. 2025 3rd International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS), IEEE.  
   DOI: [10.1109/ICSSAS66150.2025.11081354](https://doi.org/10.1109/ICSSAS66150.2025.11081354) | [IEEE Xplore](https://ieeexplore.ieee.org/document/11081354)  
-  Combined deep feature synthesis, LLMs, and Bayesian optimization; achieved 10%+ performance gains across datasets belonging from healthcare, finance, telecom, and educational domains.
+  Combined deep feature synthesis, LLMs, and Bayesian optimization; achieved 10%+ performance gains across healthcare, finance, telecom, and education datasets.
 
 ---
 
